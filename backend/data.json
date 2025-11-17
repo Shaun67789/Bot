@@ -1,0 +1,62 @@
+{
+  "botToken": "8485011526:AAFTXQhn5b3J67DJFpHSMEiY7MV_QJoEopM",
+  "welcomeMessage": {
+    "enabled": true,
+    "message": "Welcome to the group, {username}! Please be sure to read the rules."
+  },
+  "rules": [
+    "Be respectful to all members.",
+    "No spamming or self-promotion.",
+    "Keep discussions on-topic.",
+    "Do not share personal information."
+  ],
+  "bannedWords": [
+    "spam",
+    "crypto",
+    "scam"
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "username": "@alice",
+      "joinDate": "2024-07-20",
+      "avatar": "https://picsum.photos/seed/alice/40/40"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "username": "@bob",
+      "joinDate": "2024-07-21",
+      "avatar": "https://picsum.photos/seed/bob/40/40"
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "username": "@charlie",
+      "joinDate": "2024-07-21",
+      "avatar": "https://picsum.photos/seed/charlie/40/40"
+    },
+    {
+      "id": 4,
+      "name": "Diana",
+      "username": "@diana",
+      "joinDate": "2024-07-22",
+      "avatar": "https://picsum.photos/seed/diana/40/40"
+    },
+    {
+      "id": 5,
+      "name": "Eve",
+      "username": "@eve",
+      "joinDate": "2024-07-23",
+      "avatar": "https://picsum.photos/seed/eve/40/40"
+    },
+    {
+      "id": 6,
+      "name": "Frank",
+      "username": "@frank",
+      "joinDate": "2024-07-24",
+      "avatar": "https://picsum.photos/seed/frank/40/40"
+    }
+  ]
+}

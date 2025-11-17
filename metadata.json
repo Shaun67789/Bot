@@ -1,0 +1,5 @@
+{
+  "name": "Telegram Group Manager",
+  "description": "An advanced dashboard to manage your Telegram group. Configure welcome messages, rules, banned words, and view analytics. This application is a UI demonstration and does not connect to live Telegram services.",
+  "requestFramePermissions": []
+}
